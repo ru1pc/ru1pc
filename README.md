@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align = "center"> Hi, Rui here! 👋 </h1>
 
-<!--
-**ru1pc/ru1pc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Description -->
 
-Here are some ideas to get you started:
+<div align="center">
+  Welcome to my profile! 👨‍💻 <br />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- /Description -->
+
+```
+root@work:# whoami
+ru1pc
+
+root@work:# cat intro.txt
+Hi there! I'm Rui. I started working as an automation tester then moved to offensive security. Currently looking to bring automation and cybersecurity together.
+
+root@work:#
+```
+---
+
+## 🌱 What I’m currently doing
+
+- [TryHackMe](https://tryhackme.com/p/ru1pc) - Going through Learning Paths
+<!-- [HackTheBox](https://github.com/ru1pc/HTB_Writeups) - Dear diary, today I hacked <insert box>
+---
