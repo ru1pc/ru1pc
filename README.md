@@ -1,10 +1,4 @@
-<h1 align = "center"> Hi, Rui here! 👋 </h1>
-
-<!-- Description -->
-
-<div align="center">
-  Welcome to my profile! 👨‍💻 <br />
-</div>
+<h1 align = "center"> Hi there! 👋 </h1>
 
 <!-- /Description -->
 
@@ -13,7 +7,7 @@ root@work:# whoami
 ru1pc
 
 root@work:# cat intro.txt
-Hi there! I'm Rui. I started working as an automation tester then moved to offensive security. Currently looking to bring automation and cybersecurity together.
+Welcome to my repository!👨‍💻 Kinda empty I know... working on it. Currently going through for some learning paths in cybersecurity.
 
 root@work:#
 ```
