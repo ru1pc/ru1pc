@@ -16,5 +16,7 @@ root@work:#
 ## 🌱 What I’m currently doing
 
 - [TryHackMe](https://tryhackme.com/p/ru1pc) - Going through Learning Paths
-<!-- [HackTheBox](https://github.com/ru1pc/HTB_Writeups) - Dear diary, today I hacked <insert box>
----
+
+
+## 🗄️ Archive
+- [HTB Writeups](https://ru1pc.notion.site/ed16397129284e66b2543d01af6a3da8)
