@@ -9,10 +9,6 @@ root@work:#
 ```
 -->
 
-
-* 🌱 I’m currently doing SOC Level 1 learning path
-
-
 ### 🗄️ Archive
 - [Labs Write-ups](https://ru1pc.notion.site/ed16397129284e66b2543d01af6a3da8)
 
